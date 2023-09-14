@@ -30,22 +30,22 @@ Before you begin, make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/Evrz/ToDoList_Backend.git
 2. Navigate to the project directory:
-
+   ```bash
    cd ToDoList_Backend
 3. Create a virtual environment and activate it (Recommended):
-
+   ```bash
    python -m venv venv
    source venv/bin/activate
 4. Install the project dependencies:
-
+    ```bash
    pip install -r requirements.txt
 5. Apply database migrations:
-
+   ```bash
    python manage.py migrate
 6. Start the development server:
-
+   ```bash
    python manage.py runserver
-
+   ```
    Now your backend server should be up and running at http://localhost:8000/.
 
 ##Usage
