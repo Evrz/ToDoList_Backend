@@ -54,12 +54,12 @@ To use this ToDo list backend, you can interact with it via API requests. You ca
 ## API Endpoints
 ### The following API endpoints are available:
 
-List all tasks: GET /api/tasks/
-Create a new task: POST /api/tasks/
-Retrieve a task: GET /api/tasks/<task_id>/
-Update a task: PUT /api/tasks/<task_id>/
-Delete a task: DELETE /api/tasks/<task_id>/
-Please refer to the API documentation or code comments for more details on how to use these endpoints.
++ List all tasks: GET /api/tasks/
++ Create a new task: POST /api/tasks/
++ Retrieve a task: GET /api/tasks/<task_id>/
++ Update a task: PUT /api/tasks/<task_id>/
++ Delete a task: DELETE /api/tasks/<task_id>/
++ Please refer to the API documentation or code comments for more details on how to use these endpoints.
 
 ## Contributing
 If you'd like to contribute to this project, please follow these steps:
