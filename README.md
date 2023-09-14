@@ -19,20 +19,20 @@ This is the backend for a ToDo list web application built using Django Rest Fram
 
 Before you begin, make sure you have the following installed on your system:
 
-- Python (version X.X)
-- Django (version X.X)
-- Django Rest Framework (version X.X)
+- Python (version 3.9.13)
+- Django (version 3.1.4)
+- Django Rest Framework (version 3.11.1)
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-backend.git
+   git clone https://github.com/Evrz/ToDoList_Backend.git
 2. Navigate to the project directory:
 
-   cd todo-list-backend
-3. Create a virtual environment and activate it (optional but recommended):
+   cd ToDoList_Backend
+3. Create a virtual environment and activate it (Recommended):
 
    python -m venv venv
    source venv/bin/activate
