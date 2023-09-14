@@ -48,11 +48,11 @@ Before you begin, make sure you have the following installed on your system:
    ```
    Now your backend server should be up and running at http://localhost:8000/.
 
-##Usage
+## Usage
 To use this ToDo list backend, you can interact with it via API requests. You can use tools like curl or Postman to make HTTP requests to the API endpoints.
 
-##API Endpoints
-The following API endpoints are available:
+## API Endpoints
+### The following API endpoints are available:
 
 List all tasks: GET /api/tasks/
 Create a new task: POST /api/tasks/
@@ -61,14 +61,14 @@ Update a task: PUT /api/tasks/<task_id>/
 Delete a task: DELETE /api/tasks/<task_id>/
 Please refer to the API documentation or code comments for more details on how to use these endpoints.
 
-##Contributing
+## Contributing
 If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch for your feature or bugfix: git checkout -b feature-name.
-Make your changes and commit them: git commit -m "Description of changes".
-Push your changes to your fork: git push origin feature-name.
-Create a pull request on the original repository.
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix: git checkout -b feature-name.
+3. Make your changes and commit them: git commit -m "Description of changes".
+4. Push your changes to your fork: git push origin feature-name.
+5. Create a pull request on the original repository.
 
 
 
